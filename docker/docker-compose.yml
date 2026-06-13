@@ -4,8 +4,10 @@ services:
     container_name: trendradar
     restart: unless-stopped
 
-    ports:
-      - "127.0.0.1:${WEBSERVER_PORT:-8080}:${WEBSERVER_PORT:-8080}"
+# 修改后（允许局域网访问 Web 报告和 MCP 服务）
+ports:
+  - "${WEBSERVER_PORT:-8080}:${WEBSERVER_PORT:-8080}"
+  - "3333:3333"
 
     volumes:
       - ../config:/app/config:ro
