@@ -339,3 +339,70 @@
 /植田和男|黑田东彦/
 /易纲|潘功胜|刘鹤|何立峰/
 /格奥尔基耶娃|Kristalina Georgieva|世界银行行长/
+
+
+# ═══════════════════════════════════════════════════════════════
+#                    十四、各国领导人与政治动向
+# ═══════════════════════════════════════════════════════════════
+
+[美国总统]
+/特朗普|川普|Donald Trump|拜登|Joe Biden/
+/白宫|美国政府|美国内阁|美国国会|美国参议院|美国众议院/
+
+[中国领导人]
+/习近平|李强|国务院|中国政府|中央政治局|中央财经委员会/
+
+[欧盟领导人]
+/冯德莱恩|Ursula von der Leyen|欧盟委员会主席/
+/米歇尔|Charles Michel|欧洲理事会主席/
+/欧盟委员会|欧盟理事会|欧洲议会/
+
+[英国领导人]
+/斯塔默|Keir Starmer|英国首相|英国政府|唐宁街10号/
+/苏纳克|Rishi Sunak|特拉斯|Liz Truss|鲍里斯|Boris Johnson/
+
+[日本领导人]
+/石破茂|日本首相|日本内阁|日本政府/
+/岸田文雄|菅义伟|安倍晋三/
+
+[德国领导人]
+/默茨|Friedrich Merz|德国总理|德国政府|德国联邦内阁/
+/朔尔茨|Olaf Scholz|默克尔|Angela Merkel/
+
+[法国领导人]
+/马克龙|Emmanuel Macron|法国总统|法国政府|爱丽舍宫/
+/勒庞|Marine Le Pen|法国总理/
+
+[俄罗斯领导人]
+/普京|Vladimir Putin|俄罗斯总统|克里姆林宫|俄罗斯政府/
+
+[印度领导人]
+/莫迪|Narendra Modi|印度总理|印度政府/
+
+[其他重要领导人]
+/泽连斯基|Volodymyr Zelenskyy|乌克兰总统/
+/内塔尼亚胡|Benjamin Netanyahu|以色列总理/
+/米莱|Javier Milei|阿根廷总统/
+/卢拉|Luiz Inácio Lula da Silva|巴西总统/
+/埃尔多安|Recep Tayyip Erdoğan|土耳其总统/
+/金正恩|朝鲜领导人|朝鲜/
+/尹锡悦|韩国总统|韩国政府/
+/石破茂|日本首相/
+/安瓦尔|Anwar Ibrahim|马来西亚总理/
+/苏林|越南国家主席|越南/
+/马科斯|Ferdinand Marcos Jr.|菲律宾总统/
+/普拉博沃|Prabowo Subianto|印尼总统/
+/佩通坦|Paetongtarn Shinawatra|泰国总理/
+/李显龙|黄循财|新加坡总理/
+/阿尔巴尼斯|Anthony Albanese|澳大利亚总理/
+/拉克森|Christopher Luxon|新西兰总理/
+/卡尼|Mark Carney|加拿大总理|加拿大政府/
+/辛鲍姆|Claudia Sheinbaum|墨西哥总统/
+/马杜罗|Nicolás Maduro|委内瑞拉总统/
+/博里奇|Gabriel Boric|智利总统/
+/卢旺达总统|卡加梅|Paul Kagame/
+/南非总统|拉马福萨|Cyril Ramaphosa/
+/尼日利亚总统|提努布|Bola Tinubu/
+/埃及总统|塞西|Abdel Fattah el-Sisi/
+/沙特王储|萨勒曼|Mohammed bin Salman|MBS|沙特/
+/伊朗总统|佩泽希齐扬|Masoud Pezeshkian|伊朗最高领袖|哈梅内伊/
